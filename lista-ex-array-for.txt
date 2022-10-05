@@ -1,0 +1,90 @@
+// 3- let num1 = []
+// let num2 = []
+// let numI = Number(prompt("Digite o primeiro numero:"))
+// let numF = Number(prompt("Digite o ultimo numero:"))
+
+
+// for (i = 0; i <= 10; i++){
+//   num1[i] = i
+//   console.log(num1[i])
+// }
+
+// for(n = numI; n <= numF; n++){
+//   num2[n] = n
+//   console.log(num2[n])
+// }
+
+
+// 4- let num = []
+// let quantidadeN = Number(prompt('Qauntos numeros você ira digitar?'))
+
+// for (let i = 0; i < quantidadeN; i++) {
+//   num[i] = Number(prompt(`Digite o numero ${i + 1}:`))
+
+// console.log(num[i])
+// }
+
+// 5- let carros = [[],
+// [],
+// [],
+// [],
+// [],
+// [],
+// [],
+// [],
+// [],
+// [],
+// [],
+// [],
+// ]
+
+// for (i = 0; i < 12; i++) {
+//   let mesAno = Number(prompt("Digite o numero do mes do ano"))
+//   let vendasCarro = Number(prompt("Digite quanto você vendeu este mes"))
+
+//   if (mesAno === 1) {
+//     carros[0].push(vendasCarro)
+//   } 
+//   else if (mesAno === 2) {
+//     carros[1].push(vendasCarro)
+//   } 
+//   else if (mesAno === 3) {
+//     carros[2].push(vendasCarro)
+//   } 
+//   else if (mesAno === 4) {
+//     carros[3].push(vendasCarro)
+//   }
+//   else if (mesAno === 5) {
+//     carros[4].push(vendasCarro)
+//   }
+//   else if (mesAno === 6) {
+//     carros[5].push(vendasCarro)
+//   }
+//   else if (mesAno === 7) {
+//     carros[6].push(vendasCarro)
+//   }
+//   else if (mesAno === 8) {
+//     carros[7].push(vendasCarro)
+//   }
+//   else if (mesAno === 9) {
+//     carros[8].push(vendasCarro)
+//   }
+//   else if (mesAno === 10) {
+//     carros[9].push(vendasCarro)
+//   }
+//   else if (mesAno === 11) {
+//     carros[10].push(vendasCarro)
+//   }
+//   else if (mesAno === 12) {
+//     carros[11].push(vendasCarro)
+//   }
+
+// }
+
+// console.log(carros)
+
+
+
+
+
+
