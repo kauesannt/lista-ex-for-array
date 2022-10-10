@@ -16,7 +16,7 @@
 
 
 // 4- let num = []
-// let quantidadeN = Number(prompt('Qauntos numeros você ira digitar?'))
+// let quantidadeN = Number(prompt('Quantos numeros você ira digitar?'))
 
 // for (let i = 0; i < quantidadeN; i++) {
 //   num[i] = Number(prompt(`Digite o numero ${i + 1}:`))
