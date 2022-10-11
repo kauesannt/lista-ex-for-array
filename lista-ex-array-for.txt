@@ -24,7 +24,7 @@
 // console.log(num[i])
 // }
 
-// 5- let carros = [[],
+let carros = [[],
 // [],
 // [],
 // [],
@@ -37,52 +37,66 @@
 // [],
 // [],
 // ]
-
-// for (i = 0; i < 12; i++) {
-//   let mesAno = Number(prompt("Digite o numero do mes do ano"))
-//   let vendasCarro = Number(prompt("Digite quanto você vendeu este mes"))
+// let mes
+// let numeroMes = Number(prompt("Digite a quantidade de carro vendida no ano"))
+// for (let i = 0; i < numeroMes; i++) {
+//   let mesAno = Number(prompt("Digite o numero do mes do ano:"))
+//   let nomeCarro = prompt("Digite o carro que você vendeu:")
 
 //   if (mesAno === 1) {
-//     carros[0].push(vendasCarro)
+//     carros[0].push(nomeCarro)
+//     mes = 'Janeiro'
 //   } 
 //   else if (mesAno === 2) {
-//     carros[1].push(vendasCarro)
+//     carros[1].push(nomeCarro)
+//     mes = 'Fevereiro'
 //   } 
 //   else if (mesAno === 3) {
-//     carros[2].push(vendasCarro)
+//     carros[2].push(nomeCarro)
+//     mes = 'Março'
 //   } 
 //   else if (mesAno === 4) {
-//     carros[3].push(vendasCarro)
+//     carros[3].push(nomeCarro)
+//     mes = 'Abril'
 //   }
 //   else if (mesAno === 5) {
-//     carros[4].push(vendasCarro)
+//     carros[4].push(nomeCarro)
+//     mes = 'Maio'
 //   }
 //   else if (mesAno === 6) {
-//     carros[5].push(vendasCarro)
+//     carros[5].push(nomeCarro)
+//     mes = 'Junho'
 //   }
 //   else if (mesAno === 7) {
-//     carros[6].push(vendasCarro)
+//     carros[6].push(nomeCarro)
+//     mes = 'Julho'
 //   }
 //   else if (mesAno === 8) {
-//     carros[7].push(vendasCarro)
+//     carros[7].push(nomeCarro)
+//     mes = 'Agosto'
 //   }
 //   else if (mesAno === 9) {
-//     carros[8].push(vendasCarro)
+//     carros[8].push(nomeCarro)
+//     mes = 'Setembro'
 //   }
 //   else if (mesAno === 10) {
-//     carros[9].push(vendasCarro)
+//     carros[9].push(nomeCarro)
+//     mes = 'Outubro'
 //   }
 //   else if (mesAno === 11) {
-//     carros[10].push(vendasCarro)
+//     carros[10].push(nomeCarro)
+//     mes = 'Novembro'
 //   }
 //   else if (mesAno === 12) {
-//     carros[11].push(vendasCarro)
+//     carros[11].push(nomeCarro)
+//     mes = 'Dezembro'
 //   }
 
+//   console.log(`O carros vendidos no mês de ${mes} são:`)
+//   for(let indCarro = 0; carros[i][indCarro] !== undefined; indCarro++)
+//   console.log(`${carros[i][indCarro]}`)
+
 // }
-
-// console.log(carros)
-
 
 
 
